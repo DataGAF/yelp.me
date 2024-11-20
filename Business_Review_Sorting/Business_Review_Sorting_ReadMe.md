@@ -74,3 +74,20 @@ This review sorting system empowers businesses with data-driven insights, enabli
 
 By prioritizing reviews with high engagement and segment importance, this framework ensures that businesses can identify and act on the feedback that matters most.
 
+## Contributors and Contact Information
+
+Aybüke Çilingir
+
+[LinkedIn](https://www.linkedin.com/in/aybukecilingir/) | [Email](mailto:aybukecilingir@outlook.com) | [Github](https://github.com/AybukeCilingir)
+  
+---
+
+Furkan Karakuz
+
+[LinkedIn](https://www.linkedin.com/in/furkankarakuz/) | [Email](mailto:karakuzfurkan.98@gmail.com) | [Github](https://github.com/furkankarakuz)
+
+---
+Güldeniz Güzelay
+
+[LinkedIn](https://www.linkedin.com/in/guldenizguzelay/) | [Email](mailto:denizguzelay@hotmail.com) | [Github](https://github.com/Guldenizguzelay)
+
